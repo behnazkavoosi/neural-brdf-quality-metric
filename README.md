@@ -51,7 +51,7 @@ The model outputs a scalar JOD score (between 0 and 10) representing the percept
 ### 🗃️ Dataset
 
 The dataset used for training and evaluation can be found here:  
-📦 [Google Drive – BRDF Dataset](https://drive.google.com/drive/folders/1ujdKAe-s0DlhciXcBv0iU2EZZrnet8Cx?usp=sharing)
+📦 [Google Drive – BRDF Dataset](https://drive.google.com/drive/folders/1n8PaU64SXtunfW_gd5neP1QkQxKDpKFr?usp=sharing)
 
 The repository includes supporting data in `./data/`, containing:
 - Precomputed JOD labels used for training, validation, and testing
